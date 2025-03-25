@@ -13,13 +13,14 @@ This project was created for Lab 3. It contains two mini-games:
 ## Technologies Used
 
 - Java
-- IntelliJ IDEA
-- JDK 17+
+- IntelliJ IDEA CE
+
 
 ## Authors
 
 - Berk (Rock-Paper-Scissors)
 - Pablo (Guessing Game)
+- Berk and Pablo ( Main Method )
 
 ## Date
 
